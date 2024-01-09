@@ -1,0 +1,2 @@
+# Ledger
+ This website is associated with a personal or platform that provides ledger-related services. Ledgers are traditionally associated with accounting and record-keeping, where they serve as a book or database for recording financial transactions.   This website offer various services related to financial management and accounting. This include providing tools for managing digital assets and secure wallets. 

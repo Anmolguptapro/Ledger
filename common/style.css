@@ -1,0 +1,10 @@
+.container-home{
+    background-color: red;
+    height: 270px;
+}
+.key{
+    background-image: url('book.webp') center;
+      background-size: cover;
+      -webkit-text-fill-color: transparent;
+      
+}
